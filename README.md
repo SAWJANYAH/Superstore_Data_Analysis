@@ -5,4 +5,4 @@ Superstore Sales Analysis and Data Visualization.
 
 The project is “Superstore Sales Analysis and Data Visualization.” [Project Link](https://hicounselor.com/projects/superstore-sales-analysis-data-visualisation)
 
-In this project,I will use a real-world superstore dataset. How to use SQL and python to analyze a real-world problem, how to extract the most useful information from critical datasets and create visualizations dashboards using visualization tools such as Power BI or Tableau.
+In this project,used real-world superstore dataset. Used SQL and python to analyze a real-world problem to extract the most useful information from critical datasets and also created visualizations dashboards using visualization tools such as Power BI or Tableau.
